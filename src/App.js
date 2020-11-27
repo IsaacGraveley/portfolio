@@ -1,16 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import Nav from './components/Nav';
+import Hero from './components/Hero';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <video className="bgvideo" loop autoplay>
-          <source src="../video.mp4" type="video/mp4" />
-        </video>
-        <h1>Isaac Graveley</h1>
-        <p>Portfolio Website under construction :) test cname build</p>
-      </header>
+    <div className="App container mx-auto">
+      <Hero />
+      <Nav />
     </div>
   );
 }
