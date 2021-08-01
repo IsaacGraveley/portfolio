@@ -536,6 +536,10 @@ video {
   height: auto;
 }
 
+#avatar {
+  width: 50px !important;
+}
+
 .container {
   width: 100%;
 }
@@ -29126,6 +29130,10 @@ video {
 
 .animate-bounce {
   animation: bounce 1s infinite;
+}
+
+.bg-pinkred {
+  background-color: #ff5e8a;
 }
 
 @media (min-width: 640px) {

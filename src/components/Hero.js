@@ -15,7 +15,7 @@ const Hero = () => {
       </h2>
       <h3 className="pb-12">
         Please note: Website Started Construction August 1st, 2021 and is not
-        complete :)
+        complete. Projects listed are just placeholders.
       </h3>
       <div class="flex justify-center items-center">
         <HeroButtons title={"View My Projects"} linkName={"#projects"} />
