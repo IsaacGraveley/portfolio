@@ -1,0 +1,15 @@
+.App {
+  margin:0; padding:0; box-sizing:border-box;
+}
+.App-header {
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.header-text {
+  z-index: 100;
+}
+
+.App-link {
+  color: #61dafb;
+}
